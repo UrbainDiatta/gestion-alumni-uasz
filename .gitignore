@@ -1,0 +1,15 @@
+# Backend (Maven / Spring Boot)
+backend/target/
+backend/.mvn/
+*.class
+
+# Frontend (Next.js)
+frontend/node_modules/
+frontend/.next/
+frontend/.env*.local
+
+# IDE et systeme
+.idea/
+*.iml
+.vscode/
+.DS_Store
